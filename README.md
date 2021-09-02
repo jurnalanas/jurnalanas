@@ -1,16 +1,13 @@
-### Hi there 👋
+## Anas
 
-<!--
-**jurnalanas/jurnalanas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Location: [Jakarta, Indonesia](https://jakarta.go.id/). Timezone: [UTC+7](https://www.timeanddate.com/time/zones/wib).
 
-Here are some ideas to get you started:
+English:
+* Blog: [jurnalanas.com](https://www.jurnalanas.com)
+* Twitter: [@oianas_](https://twitter.com/oianas_)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Bahasa Indonesia:
+* Medium: [@jurnalanas](https://jurnalanas.medium.com/)
+* Instagram: [@oianas_](https://www.instagram.com/oianas_/)
+
+How to reach me: [📫](mailto:hey@jurnalanas.com)
