@@ -6,6 +6,5 @@ I specialize in web development, primarily working with Node.js, React, and Type
 
 * Published works: [Code Crafters Newsletter](https://jurnalanas.substack.com/)
 * Personal blog: [jurnalanas.com](https://www.jurnalanas.com)
-* Twitter: [@oianas_](https://twitter.com/oianas_)
 
 For any inquiries or potential collaborations, feel free to reach out: [📫](mailto:hey@jurnalanas.com)
